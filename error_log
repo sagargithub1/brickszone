@@ -1,0 +1,2 @@
+[08-Dec-2020 12:11:10 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ankitwdc/public_html/Brickszone/index.php on line 180
+[08-Dec-2020 13:54:08 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/ankitwdc/public_html/Brickszone/result.php on line 9
